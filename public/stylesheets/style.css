@@ -1,0 +1,31 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+.w-input {
+  display: block;
+  width: 100%;
+  margin-bottom: 1em;
+  padding: 16px 0px;
+  border: none;
+  font-size: 1.5em;
+}
+
+.w-button {
+  width: 100%;
+  border: none;
+  padding: 8px 16px;
+  vertical-align: middle;
+  overflow: hidden;
+  color: white;
+  font-size: 1.5em;
+  background: green;
+}
