@@ -2,7 +2,7 @@ var express = require("express");
 var router = express.Router();
 var axios = require("axios");
 
-const API_KEY = "";
+const API_KEY = "1fbd1e5bffa018a6ca7646e0839f137c";
 /* GET home page. */
 router.get("/", function(req, res, next) {
   res.render("index", { title: "Express weather app" });
